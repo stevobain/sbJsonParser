@@ -41,19 +41,3 @@ python sbJsonParser.py path\to\your\jsonfile.json
 ``` 
 
 Make sure to replace `path\to\your\jsonfile.json` with the actual path to the JSON file you want to parse.
-
-## Testing
-
-The parser has undergone thorough testing with various JSON files, including complex nested structures and edge cases. Unit tests will be written in the future.
-
-## Contributing
-
-Contributions to enhance `sbJsonParser` are always welcome. Feel free to fork the repository, make your changes, and open a pull request.
-
-## License
-
-`sbJsonParser` is open source and available under the MIT License.
-
-## Acknowledgments
-
-A heartfelt thank you to all contributors and supporters of this project, who have offered invaluable insights and suggestions.
